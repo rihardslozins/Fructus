@@ -14,6 +14,7 @@ struct FruitCardView: View {
     var fruit: Fruit
     
     @State private var isAnimating: Bool = false
+
     
     // MARK: - BODY
     
